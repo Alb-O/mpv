@@ -431,4 +431,4 @@ bindings_repeat[opts.down_fine]    = movement_func(0, opts.fine_movement)
 
 
 mp.add_key_binding(nil, "start-crop", start_crop)
-mp.add_key_binding("c", "toggle-crop", toggle_crop)
+mp.add_key_binding("Ctrl+C", "toggle-crop", toggle_crop)

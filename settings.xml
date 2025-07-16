@@ -2,6 +2,6 @@
   <arch>x86_64</arch>
   <autodelete>true</autodelete>
   <getffmpeg>false</getffmpeg>
-  <getytdl>unset</getytdl>
-  <ytdlpchannel>unset</ytdlpchannel>
+  <getytdl>ytdlp</getytdl>
+  <ytdlpchannel>stable</ytdlpchannel>
 </settings>
